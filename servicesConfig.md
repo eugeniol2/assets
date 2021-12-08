@@ -68,8 +68,8 @@
 
 <div>
   <section>
-    <h2> Prismic </h2>
-    <h4> Após a criação do repositório no prismic é necessário clicar em "custom types" </h4>
+    <h1> Prismic </h1>
+    <h4> Após a criação do repositório no prismic é necessário clicar em "custom types" e adicionar um novo type seguinto os dados abaixo: </h4>
     <ul>
       <li>Name: post</li>
       <li>Type: repeatable</li>
