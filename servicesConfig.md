@@ -63,3 +63,8 @@
     ]
   }
   ```
+<h1> Stripe </h1>
+<p> Criar projeto e criar um produto com nome e preço </p>
+
+<h2> Prismic </h2>
+
