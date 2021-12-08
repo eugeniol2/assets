@@ -66,5 +66,19 @@
 <h1> Stripe </h1>
 <p> Criar projeto e criar um produto com nome e preço </p>
 
-<h2> Prismic </h2>
-
+<div>
+  <section>
+    <h2> Prismic </h2>
+    <h4> Após a criação do repositório no prismic é necessário clicar em "custom types" </h4>
+    <ul>
+      <li>Name: post</li>
+      <li>Type: repeatable</li>
+    </ul>
+    <h2> Estrutura do post </h2>
+    <ul>
+      <li>UID</li> 
+      <li>Title</li> 
+      <li>Content</li> 
+    </ul>
+  </section>  
+</div>
