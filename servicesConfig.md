@@ -5,7 +5,8 @@
 <img align="center" alt="faunadbuser"  src="https://github.com/eugeniol2/assets/blob/ignewsAssets/faunadbuser.png" />
 
 <h2> Indexes </h2>
-<p> 
+
+  ```js
   {
     name: "subscription_by_id",
     unique: false,
@@ -17,7 +18,7 @@
       }
     ]
   },
-  <br>
+  
   {
     name: "subscription_by_status",
     unique: false,
@@ -29,7 +30,7 @@
       }
     ]
   },
-  <br>
+  
   {
     name: "subscription_by_user_ref",
     unique: false,
@@ -41,7 +42,7 @@
       }
     ]
   },
-  <br>
+  
   {
     name: "user_by_email",
     unique: true,
@@ -65,4 +66,4 @@
       }
     ]
   }
-</p>
+  ```
