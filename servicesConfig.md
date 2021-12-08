@@ -17,8 +17,7 @@
         field: data.id
       }
     ]
-  },
-  
+  }  
   {
     name: "subscription_by_status",
     unique: false,
@@ -29,8 +28,7 @@
         field: data.status
       }
     ]
-  },
-  
+  }  
   {
     name: "subscription_by_user_ref",
     unique: false,
@@ -41,8 +39,7 @@
         field: data.userId
       }
     ]
-  },
-  
+  }  
   {
     name: "user_by_email",
     unique: true,
@@ -53,8 +50,7 @@
         field: data.email
       }
     ]
-  },
-  <br>
+  }
   {
     name: "user_by_stripe_customer_id",
     unique: false,
